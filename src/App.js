@@ -19,6 +19,10 @@ export default function App() {
         - ANNOUN Aymen <br /> - BENDAHO Riyadh{" "}
       </p>
       <D3BarGraph />
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
     </div>
   );
 }
