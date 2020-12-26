@@ -5,7 +5,7 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>TP INFOVIZ</h1>
+      <h1>TP InfoViS </h1>
       <D3BarGraph />
     </div>
   );
