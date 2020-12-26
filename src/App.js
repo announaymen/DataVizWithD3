@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <h1>TP InfoViS </h1>
       <h3>
-        Cette visualisation a été créée avec la bibliothèque D3 et de React et a
+        Cette visualisation a été créée avec la bibliothèque D3 et React et a
         été déployée sur Heroku <br />
         pour voir le code source cliquer &nbsp;
         <a href="https://github.com/announaymen/DataVizWithD3" target="_blank">
