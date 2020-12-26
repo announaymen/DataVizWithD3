@@ -7,8 +7,8 @@ export default function App() {
     <div className="App">
       <h1>TP InfoViS </h1>
       <h3>
-        Cette visualisation represente le nombre des maladies par sexe et par
-        secteur d'activité, elle a été créée avec la bibliothèque D3 ensuite
+        Cette visualisation represente le nombre des maladies par sexe (F,M) et
+        par secteur d'activité, elle a été créée avec la bibliothèque D3 ensuite
         elle a été deployée sur Heroku <br />
         pour voir le code source cliquer &nbsp;
         <a href="https://github.com/announaymen/DataVizWithD3" target="_blank">
