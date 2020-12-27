@@ -18,7 +18,8 @@ export default function App() {
       <p>
         {" "}
         - ANNOUN Aymen <br /> - BENDAHO Riyadh
-        <br /> - MEKIDECHE Ikram{" "}
+        <br /> -BEROUAKEN Meroua 
+<br /> - MEKIDECHE Ikram{" "}
       </p>
       <D3BarGraph />
       <br></br>
